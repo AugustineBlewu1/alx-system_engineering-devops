@@ -1,2 +1,2 @@
-#!/bin/bash
-path=$(which ls)
+#! /bin/bash
+which ls
